@@ -1,8 +1,6 @@
 import os
 import wave
 import pyaudio
-import numpy as np
-import time
 from faster_whisper import WhisperModel
 
 # Disable symlink warnings
